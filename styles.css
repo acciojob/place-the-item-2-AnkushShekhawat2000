@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.item{
+	width:100px;
+	height:100px;
+}
+.green{
+	background-color:green;
+	
+}
+
+.red{
+	background-red:red;
+}
+
+.blue{
+	background-blue:blue;
+}
