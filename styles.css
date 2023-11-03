@@ -1,5 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap: wrap;
+}
 .item{
 	width:100px;
 	height:100px;
@@ -10,9 +15,9 @@
 }
 
 .red{
-	background-red:red;
+	background-color:red;
 }
 
 .blue{
-	background-blue:blue;
+	background-color:blue;
 }
